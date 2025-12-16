@@ -3,8 +3,8 @@ requires = ["setuptools>=78.1.1", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "your-project"
-version = "0.1.0"
+name = "CosyVoice-UV-Support"
+version = "1.1.0"
 description = "Example project with dependencies"
 authors = [{ name = "Christopher" }]
 dependencies = [
