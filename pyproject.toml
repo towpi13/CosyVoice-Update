@@ -31,7 +31,7 @@ dependencies = [
     "onnxruntime-gpu==1.18.0; sys_platform == 'linux'",
     "onnxruntime==1.18.0; sys_platform == 'darwin' or sys_platform == 'win32'",
     "openai-whisper==20231117",
-    "protobuf==4.25",
+    "protobuf",
     "pyarrow==18.1.0",
     "pydantic>=2.7.0",
     "pyworld==0.3.4",
