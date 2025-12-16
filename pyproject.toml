@@ -12,7 +12,7 @@ dependencies = [
     "deepspeed==0.15.1; sys_platform == 'linux'",
     "diffusers",
     "fastapi",
-    "fastapi-cli==0.0.4",
+    "fastapi-cli",
     "gdown==5.1.0",
     "gradio",
     "grpcio>=1.57.0",
